@@ -1,0 +1,707 @@
+[
+  {
+    "startTime": "34.399",
+    "endTime": "51.36",
+    "place": "뉴욕 맨해튼 센트럴 파크",
+    "googlePlace": "Central Park",
+    "describe": "맨해튼의 중심에 위치한 대형 공원, 다양한 활동 가능",
+    "realname": "확실함",
+    "emozi": "🌳🚴‍♂️🚣‍♀️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7825547,
+      "lng": -73.9655834
+    },
+    "id": "ChIJ4zGFAZpYwokRGUGph3Mf37k"
+  },
+  {
+    "startTime": "52.64",
+    "endTime": "67.96",
+    "place": "뉴욕 브루클린 덤보",
+    "googlePlace": "DUMBO",
+    "describe": "맨해튼 브리지와 엠파이어 스테이트 빌딩이 보이는 지역",
+    "realname": "확실함",
+    "emozi": "🏙️☕📸",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7033164,
+      "lng": -73.9881451
+    },
+    "id": "ChIJ-7A-bzFawokRw8mvHCzZsc4"
+  },
+  {
+    "startTime": "69.96",
+    "endTime": "73.2",
+    "place": "뉴욕 브루클린 제인스 캐러셀",
+    "googlePlace": "Jane's Carousel",
+    "describe": "브루클린 브리지 파크에 위치한 회전목마",
+    "realname": "확실함",
+    "emozi": "🎠🌉",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.70445,
+      "lng": -73.99238849999999
+    },
+    "id": "ChIJU9mVHzFawokRcNNO_Su8zGM"
+  },
+  {
+    "startTime": "76.52",
+    "endTime": "95.92",
+    "place": "뉴욕 맨해튼 타임스퀘어",
+    "googlePlace": "Times Square",
+    "describe": "화려한 네온사인과 거리 공연이 있는 번화가",
+    "realname": "확실함",
+    "emozi": "🌆🎭",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7579747,
+      "lng": -73.9855426
+    },
+    "id": "ChIJmQJIxlVYwokRLgeuocVOGVU"
+  },
+  {
+    "startTime": "98.36",
+    "endTime": "110.759",
+    "place": "뉴욕 맨해튼 배터리 파크",
+    "googlePlace": "Battery Park",
+    "describe": "자유의 여신상으로 가는 관문, 아름다운 해안 경관",
+    "realname": "확실함",
+    "emozi": "🗽⛴️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.70293119999999,
+      "lng": -74.0153603
+    },
+    "id": "ChIJraKL-BJawokREpxDmF5GcL4"
+  },
+  {
+    "startTime": "116.28",
+    "endTime": "132.52",
+    "place": "뉴욕 리버티 아일랜드 자유의 여신상",
+    "googlePlace": "Statue of Liberty",
+    "describe": "자유의 상징, 뉴욕 항구에 위치",
+    "realname": "확실함",
+    "emozi": "🗽🚢",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.6892494,
+      "lng": -74.04450039999999
+    },
+    "id": "ChIJPTacEpBQwokRKwIlDXelxkA"
+  },
+  {
+    "startTime": "135.76",
+    "endTime": "151.959",
+    "place": "뉴욕 엘리스 아일랜드",
+    "googlePlace": "Ellis Island",
+    "describe": "미국 이민 역사를 담은 박물관",
+    "realname": "확실함",
+    "emozi": "🏛️🗺️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.6994748,
+      "lng": -74.0395587
+    },
+    "id": "ChIJDw5fGZpQwokR69Yikp1Go9I"
+  },
+  {
+    "startTime": "153.92",
+    "endTime": "170.239",
+    "place": "뉴욕 거버너스 아일랜드",
+    "googlePlace": "Governors Island",
+    "describe": "넓은 녹지와 역사적인 건물, 예술 설치물",
+    "realname": "확실함",
+    "emozi": "🚴‍♀️🏞️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.68945009999999,
+      "lng": -74.016792
+    },
+    "id": "ChIJT4N92npawokRNfXHEXmRwng"
+  },
+  {
+    "startTime": "193.44",
+    "endTime": "210.799",
+    "place": "뉴욕 맨해튼 하이라인",
+    "googlePlace": "The High Line",
+    "describe": "옛 철도 위에 지어진 공원, 예술과 도시 경관",
+    "realname": "확실함",
+    "emozi": "🌿🚶‍♂️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7479925,
+      "lng": -74.0047649
+    },
+    "id": "ChIJ5bQPhMdZwokRkTwKhVxhP1g"
+  },
+  {
+    "startTime": "212.64",
+    "endTime": "245.76",
+    "place": "뉴욕 맨해튼 록펠러 센터",
+    "googlePlace": "Rockefeller Center",
+    "describe": "아이코닉한 건축물과 계절별 활동",
+    "realname": "확실함",
+    "emozi": "🏙️⛸️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7587402,
+      "lng": -73.9786736
+    },
+    "id": "ChIJ9U1mz_5YwokRosza1aAk0jM"
+  },
+  {
+    "startTime": "249.12",
+    "endTime": "265.32",
+    "place": "뉴욕 코니 아일랜드",
+    "googlePlace": "Coney Island",
+    "describe": "빈티지 놀이공원과 해변",
+    "realname": "확실함",
+    "emozi": "🎢🌊",
+    "category": "sightseeing",
+    "location": {
+      "lat": 1.4092951,
+      "lng": 103.9216496
+    },
+    "id": "ChIJmf-D3wQ-2jERtNPC6WSqjnY"
+  },
+  {
+    "startTime": "266.52",
+    "endTime": "286.68",
+    "place": "뉴욕 허드슨 야드 베슬",
+    "googlePlace": "The Vessel",
+    "describe": "허드슨 야드의 벌집 모양 구조물",
+    "realname": "확실함",
+    "emozi": "🏙️🔺",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7538073,
+      "lng": -74.0021537
+    },
+    "id": "ChIJqygAFrRZwokRwF0VrBoXS0E"
+  },
+  {
+    "startTime": "290.0",
+    "endTime": "307.4",
+    "place": "뉴욕 브루클린 프로스펙트 파크",
+    "googlePlace": "Prospect Park",
+    "describe": "브루클린의 대형 공원, 호수와 동물원",
+    "realname": "확실함",
+    "emozi": "🌳🦓",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.6602037,
+      "lng": -73.9689558
+    },
+    "id": "ChIJQwRohxBbwokRmHrfAMb3ixc"
+  },
+  {
+    "startTime": "310.6",
+    "endTime": "328.36",
+    "place": "뉴욕 브루클린 하이츠 프롬나드",
+    "googlePlace": "Brooklyn Heights Promenade",
+    "describe": "맨해튼 스카이라인과 자유의 여신상 전망",
+    "realname": "확실함",
+    "emozi": "🌆🗽",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.6964173,
+      "lng": -73.9977463
+    },
+    "id": "ChIJkwX1AjdawokRx9reOccHFr4"
+  },
+  {
+    "startTime": "330.919",
+    "endTime": "344.68",
+    "place": "뉴욕 스태튼 아일랜드 페리",
+    "googlePlace": "Staten Island Ferry",
+    "describe": "자유의 여신상과 맨해튼 스카이라인 전망",
+    "realname": "확실함",
+    "emozi": "⛴️🌇",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.6725832,
+      "lng": -74.0438277
+    },
+    "id": "ChIJZYrl0W9QwokRITkoJiQqoAE"
+  },
+  {
+    "startTime": "346.16",
+    "endTime": "362.039",
+    "place": "뉴욕 루즈벨트 아일랜드",
+    "googlePlace": "Roosevelt Island",
+    "describe": "맨해튼의 동쪽 강에서의 독특한 전망",
+    "realname": "확실함",
+    "emozi": "🚡🏞️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.76050310000001,
+      "lng": -73.9509934
+    },
+    "id": "ChIJjQ1a2MRYwokRJ_6PC_93-BE"
+  },
+  {
+    "startTime": "385.72",
+    "endTime": "400.479",
+    "place": "뉴욕 윌리엄스버그 도미노 파크",
+    "googlePlace": "Domino Park",
+    "describe": "옛 설탕 정제소 부지에 위치한 공원",
+    "realname": "확실함",
+    "emozi": "🏞️🌅",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7148803,
+      "lng": -73.967851
+    },
+    "id": "ChIJX7hLk0FZwokRFhRcjtylakg"
+  },
+  {
+    "startTime": "402.599",
+    "endTime": "419.84",
+    "place": "뉴욕 첼시 마켓",
+    "googlePlace": "Chelsea Market",
+    "describe": "미트패킹 디스트릭트의 음식과 쇼핑 명소",
+    "realname": "확실함",
+    "emozi": "🍽️🛍️",
+    "category": "food",
+    "location": {
+      "lat": 40.7424396,
+      "lng": -74.0061439
+    },
+    "id": "ChIJw2lMFL9ZwokRosAtly52YX4"
+  },
+  {
+    "startTime": "431.84",
+    "endTime": "447.56",
+    "place": "뉴욕 엠파이어 스테이트 빌딩",
+    "googlePlace": "Empire State Building",
+    "describe": "뉴욕의 클래식한 전망대",
+    "realname": "확실함",
+    "emozi": "🏙️🔭",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7484405,
+      "lng": -73.98566439999999
+    },
+    "id": "ChIJaXQRs6lZwokRY6EFpJnhNNE"
+  },
+  {
+    "startTime": "450.44",
+    "endTime": "469.12",
+    "place": "뉴욕 록펠러 센터 탑 오브 더 록",
+    "googlePlace": "Top of the Rock",
+    "describe": "중앙 공원과 엠파이어 스테이트 빌딩 전망",
+    "realname": "확실함",
+    "emozi": "🏙️📸",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7593495,
+      "lng": -73.9794087
+    },
+    "id": "ChIJe7vKMf9YwokRIMYfDz7iF9o"
+  },
+  {
+    "startTime": "471.28",
+    "endTime": "490.599",
+    "place": "뉴욕 서밋 원 밴더빌트",
+    "googlePlace": "Summit One Vanderbilt",
+    "describe": "거울과 유리 바닥이 있는 최신 전망대",
+    "realname": "확실함",
+    "emozi": "🏙️🔍",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7527746,
+      "lng": -73.9787253
+    },
+    "id": "ChIJd7I1IO5ZwokRbv7YUlgChl4"
+  },
+  {
+    "startTime": "496.639",
+    "endTime": "518.2",
+    "place": "뉴욕 원 월드 트레이드 센터",
+    "googlePlace": "One World Observatory",
+    "describe": "뉴욕의 회복력을 보여주는 전망대",
+    "realname": "확실함",
+    "emozi": "🏙️🕊️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7130062,
+      "lng": -74.013173
+    },
+    "id": "ChIJTWE_0BtawokRVJNGH5RS448"
+  },
+  {
+    "startTime": "530.08",
+    "endTime": "540.6",
+    "place": "뉴욕 메트로폴리탄 미술관",
+    "googlePlace": "The Metropolitan Museum of Art",
+    "describe": "5,000년의 예술과 문화가 있는 박물관",
+    "realname": "확실함",
+    "emozi": "🎨🏛️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7794366,
+      "lng": -73.963244
+    },
+    "id": "ChIJb8Jg9pZYwokR-qHGtvSkLzs"
+  },
+  {
+    "startTime": "542.399",
+    "endTime": "548.76",
+    "place": "뉴욕 메트로폴리탄 미술관",
+    "googlePlace": "The Metropolitan Museum of Art",
+    "describe": "뉴욕의 대표적인 문화 보물, 다양한 전시",
+    "realname": "확실함",
+    "emozi": "🖼️🎨🏛️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7794366,
+      "lng": -73.963244
+    },
+    "id": "ChIJb8Jg9pZYwokR-qHGtvSkLzs"
+  },
+  {
+    "startTime": "549.92",
+    "endTime": "566.36",
+    "place": "뉴욕 현대 미술관",
+    "googlePlace": "The Museum of Modern Art (MoMA)",
+    "describe": "피카소, 반 고흐, 워홀의 작품이 있는 현대 미술관",
+    "realname": "확실함",
+    "emozi": "🖼️🎨🖌️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7614327,
+      "lng": -73.97762159999999
+    },
+    "id": "ChIJKxDbe_lYwokRVf__s8CPn-o"
+  },
+  {
+    "startTime": "574.12",
+    "endTime": "594.44",
+    "place": "뉴욕 미국 자연사 박물관",
+    "googlePlace": "American Museum of Natural History",
+    "describe": "공룡 해골과 자연 세계의 경이로움을 전시",
+    "realname": "확실함",
+    "emozi": "🦖🌌🌊",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7813241,
+      "lng": -73.9739882
+    },
+    "id": "ChIJCXoPsPRYwokRsV1MYnKBfaI"
+  },
+  {
+    "startTime": "597.04",
+    "endTime": "612.839",
+    "place": "뉴욕 브루클린 미술관",
+    "googlePlace": "Brooklyn Museum",
+    "describe": "고대 이집트 유물부터 현대 미술까지 다양한 전시",
+    "realname": "확실함",
+    "emozi": "🖼️🏺🖌️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.6712062,
+      "lng": -73.9636306
+    },
+    "id": "ChIJyTmcRApbwokR-oXJRqpVI8Y"
+  },
+  {
+    "startTime": "616.72",
+    "endTime": "632.56",
+    "place": "뉴욕 구겐하임 미술관",
+    "googlePlace": "Solomon R. Guggenheim Museum",
+    "describe": "프랭크 로이드 라이트가 설계한 독특한 건축물",
+    "realname": "확실함",
+    "emozi": "🏛️🖼️🌀",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7829796,
+      "lng": -73.9589706
+    },
+    "id": "ChIJmZ5emqJYwokRuDz79o0coAQ"
+  },
+  {
+    "startTime": "640.2",
+    "endTime": "659.72",
+    "place": "뉴욕 미국 인디언 국립 박물관",
+    "googlePlace": "National Museum of the American Indian",
+    "describe": "알렉산더 해밀턴 미국 세관 건물에 위치한 박물관",
+    "realname": "확실함",
+    "emozi": "🪶🏛️🌎",
+    "category": "sightseeing",
+    "location": {
+      "lat": 38.8883484,
+      "lng": -77.01650339999999
+    },
+    "id": "ChIJF-dY_IO3t4kRGBj1JD-V4Q0"
+  },
+  {
+    "startTime": "662.48",
+    "endTime": "679.32",
+    "place": "뉴욕 모건 도서관 및 박물관",
+    "googlePlace": "The Morgan Library & Museum",
+    "describe": "JP 모건의 개인 도서관, 희귀 원고와 고서 전시",
+    "realname": "확실함",
+    "emozi": "📚🏛️📜",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7492258,
+      "lng": -73.9813971
+    },
+    "id": "ChIJ3453OAdZwokRja92OOKCugM"
+  },
+  {
+    "startTime": "681.959",
+    "endTime": "700.639",
+    "place": "뉴욕 스태튼 아일랜드 등대 박물관",
+    "googlePlace": "National Lighthouse Museum",
+    "describe": "등대의 역사와 해양사 전시",
+    "realname": "확실함",
+    "emozi": "🗼🌊🚢",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.6407468,
+      "lng": -74.0734928
+    },
+    "id": "ChIJS6PmXNJPwokRSNmVixCghQo"
+  },
+  {
+    "startTime": "702.079",
+    "endTime": "719.279",
+    "place": "뉴욕 시 교통 박물관",
+    "googlePlace": "New York Transit Museum",
+    "describe": "브루클린의 폐쇄된 지하철역에 위치한 교통사 박물관",
+    "realname": "확실함",
+    "emozi": "🚇🚌🚦",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.69057,
+      "lng": -73.99006779999999
+    },
+    "id": "ChIJdThqNVVawokRFk58UQOvtuM"
+  },
+  {
+    "startTime": "721.72",
+    "endTime": "736.519",
+    "place": "뉴욕 브로드웨이 박물관",
+    "googlePlace": "The Museum of Broadway",
+    "describe": "뉴욕 시의 극장 역사와 마법을 기념하는 박물관",
+    "realname": "확실함",
+    "emozi": "🎭🎟️🎬",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7576446,
+      "lng": -73.9843382
+    },
+    "id": "ChIJw7GUS-5ZwokRmhit4hpZT74"
+  },
+  {
+    "startTime": "738.6",
+    "endTime": "758.88",
+    "place": "뉴욕 퀸즈 미술관",
+    "googlePlace": "Queens Museum",
+    "describe": "뉴욕 시의 파노라마와 세계 박람회 전시",
+    "realname": "확실함",
+    "emozi": "🏙️🖼️🌍",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.745914,
+      "lng": -73.8467247
+    },
+    "id": "ChIJmWMJBtBfwokR5qK7waLcgAM"
+  },
+  {
+    "startTime": "771.68",
+    "endTime": "795.0",
+    "place": "뉴욕 911 기념관 및 박물관",
+    "googlePlace": "9/11 Memorial & Museum",
+    "describe": "9/11 테러 희생자들을 기리는 기념관",
+    "realname": "확실함",
+    "emozi": "🕊️🇺🇸🌆",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7115776,
+      "lng": -74.0133362
+    },
+    "id": "ChIJRcvoOxpawokR7R4dQMXMMPQ"
+  },
+  {
+    "startTime": "796.399",
+    "endTime": "815.839",
+    "place": "뉴욕 월 스트리트",
+    "googlePlace": "Wall Street",
+    "describe": "뉴욕 증권거래소와 차징 불 동상이 있는 금융 중심지",
+    "realname": "확실함",
+    "emozi": "🏦🐂📈",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7060675,
+      "lng": -74.0089046
+    },
+    "id": "ChIJq8ztWxZawokRAa61A_Ddsiw"
+  },
+  {
+    "startTime": "817.32",
+    "endTime": "836.959",
+    "place": "뉴욕 브루클린 브리지",
+    "googlePlace": "Brooklyn Bridge",
+    "describe": "맨해튼 스카이라인과 이스트 강의 멋진 전망",
+    "realname": "확실함",
+    "emozi": "🌉🏙️📸",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7060855,
+      "lng": -73.9968643
+    },
+    "id": "ChIJK3vOQyNawokRXEa9errdJiU"
+  },
+  {
+    "startTime": "839.6",
+    "endTime": "856.72",
+    "place": "뉴욕 플랫아이언 빌딩",
+    "googlePlace": "Flatiron Building",
+    "describe": "뉴욕의 상징적인 건축물, 삼각형 모양",
+    "realname": "확실함",
+    "emozi": "🏢📸🔺",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7410605,
+      "lng": -73.9896986
+    },
+    "id": "ChIJZx8c96NZwokRJklw7SVhKt4"
+  },
+  {
+    "startTime": "860.759",
+    "endTime": "877.399",
+    "place": "뉴욕 세인트 패트릭 대성당",
+    "googlePlace": "St. Patrick's Cathedral",
+    "describe": "5번가에 위치한 네오고딕 양식의 대성당",
+    "realname": "확실함",
+    "emozi": "⛪🌟🕍",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7586117,
+      "lng": -73.9761953
+    },
+    "id": "ChIJUW4vEPxYwokRW6o24DU0YIg"
+  },
+  {
+    "startTime": "878.839",
+    "endTime": "897.68",
+    "place": "뉴욕 세인트 폴 채플",
+    "googlePlace": "St. Paul's Chapel",
+    "describe": "맨해튼의 가장 오래된 교회, 911 당시 피난처",
+    "realname": "확실함",
+    "emozi": "⛪🕊️🕯️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7113281,
+      "lng": -74.0091831
+    },
+    "id": "ChIJ-wHkrBlawokRjCiym7MbolM"
+  },
+  {
+    "startTime": "900.48",
+    "endTime": "917.24",
+    "place": "뉴욕 그랜드 센트럴 터미널",
+    "googlePlace": "Grand Central Terminal",
+    "describe": "역사적인 랜드마크, 웅장한 건축물",
+    "realname": "확실함",
+    "emozi": "🚉🏛️🌌",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7533582,
+      "lng": -73.9768041
+    },
+    "id": "ChIJhRwB-yFawokRi0AhGH87UTc"
+  },
+  {
+    "startTime": "918.48",
+    "endTime": "936.279",
+    "place": "뉴욕 워싱턴 스퀘어 아치",
+    "googlePlace": "Washington Square Arch",
+    "describe": "그리니치 빌리지에 위치한 아치, 활기찬 공원",
+    "realname": "확실함",
+    "emozi": "🌳🎶♟️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.7312185,
+      "lng": -73.9970929
+    },
+    "id": "ChIJXa-d3ZBZwokRGcUkpZc_uC4"
+  },
+  {
+    "startTime": "937.639",
+    "endTime": "955.92",
+    "place": "뉴욕 공립 도서관 메인 브랜치",
+    "googlePlace": "New York Public Library - Stephen A. Schwarzman Building",
+    "describe": "웅장한 건축물과 사자상으로 유명한 도서관",
+    "realname": "확실함",
+    "emozi": "📚🦁🏛️",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.75318230000001,
+      "lng": -73.9822534
+    },
+    "id": "ChIJqaiomQBZwokRTHOaUG7fUTs"
+  },
+  {
+    "startTime": "959.04",
+    "endTime": "975.56",
+    "place": "뉴욕 포트 워즈워스",
+    "googlePlace": "Fort Wadsworth",
+    "describe": "스태튼 아일랜드에 위치한 미국의 오래된 군사 요새",
+    "realname": "확실함",
+    "emozi": "🏰🔭🌉",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.6051455,
+      "lng": -74.0564299
+    },
+    "id": "ChIJq6qqqh5PwokRS7Y6dqVd1yg"
+  },
+  {
+    "startTime": "987.36",
+    "endTime": "998.16",
+    "place": "뉴욕 해리포터 스토어",
+    "googlePlace": "Harry Potter New York",
+    "describe": "플랫아이언에 위치한 해리포터 테마 스토어",
+    "realname": "확실함",
+    "emozi": "🧙‍♂️🪄🍺",
+    "category": "shopping",
+    "location": {
+      "lat": 40.7405933,
+      "lng": -73.9896246
+    },
+    "id": "ChIJ62xq6RhZwokRj5GFxjJ8H0g"
+  },
+  {
+    "startTime": "1020.36",
+    "endTime": "1032.0",
+    "place": "뉴욕 5번가",
+    "googlePlace": "Fifth Avenue",
+    "describe": "럭셔리 브랜드가 즐비한 뉴욕의 유명 쇼핑 거리",
+    "realname": "확실함",
+    "emozi": "🛍️👗💎",
+    "category": "shopping",
+    "location": {
+      "lat": 40.7745062,
+      "lng": -73.9655418
+    },
+    "id": "ChIJ9Uc4naJYwokRSndBAbr7TVY"
+  },
+  {
+    "startTime": "1033.439",
+    "endTime": "1051.88",
+    "place": "뉴욕 소호 에볼루션 스토어",
+    "googlePlace": "The Evolution Store",
+    "describe": "자연사 테마의 독특한 상점, 화석과 박제 전시",
+    "realname": "확실함",
+    "emozi": "🦖🔬💎",
+    "category": "shopping",
+    "location": {
+      "lat": 40.7281384,
+      "lng": -73.9947995
+    },
+    "id": "ChIJ7Rljr45ZwokRKsFnqQir1zs"
+  }
+]

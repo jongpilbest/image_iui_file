@@ -1,0 +1,32 @@
+[
+  {
+    "startTime": "173.2",
+    "endTime": "191.64",
+    "place": "뉴욕 맨해튼 오큘러스",
+    "googlePlace": "The Oculus",
+    "describe": "세계무역센터 근처의 현대 건축물, 쇼핑몰과 음식점",
+    "realname": "확실함",
+    "emozi": "🏗️🛍️",
+    "category": "shopping"
+  },
+  {
+    "startTime": "1000.6",
+    "endTime": "1018.079",
+    "place": "뉴욕 FAO 슈워츠",
+    "googlePlace": "FAO Schwarz",
+    "describe": "록펠러 플라자에 위치한 상징적인 장난감 가게",
+    "realname": "확실함",
+    "emozi": "🧸🎹🎁",
+    "category": "shopping"
+  },
+  {
+    "startTime": "1065.559",
+    "endTime": "1073.44",
+    "place": "뉴욕 조스 피자",
+    "googlePlace": "Joe's Pizza",
+    "describe": "뉴욕의 전설적인 피자, 얇고 접을 수 있는 스타일",
+    "realname": "확실함",
+    "emozi": "🍕🗽🍴",
+    "category": "food"
+  }
+]

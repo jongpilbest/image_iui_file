@@ -1,0 +1,32 @@
+[
+  {
+    "startTime": "208.8",
+    "endTime": "219.28",
+    "place": "뉴욕 맨해튼 오큘러스",
+    "googlePlace": "The Oculus",
+    "describe": "미래지향적인 디자인의 쇼핑몰 및 교통 허브",
+    "realname": "확실함",
+    "emozi": "🏗️🛍️",
+    "category": "shopping"
+  },
+  {
+    "startTime": "407.6",
+    "endTime": "416.56",
+    "place": "뉴욕 허드슨 야드 Vessel",
+    "googlePlace": "Vessel",
+    "describe": "미래지향적인 디자인의 등반 가능한 구조물",
+    "realname": "확실함",
+    "emozi": "🏙️🧗‍♂️🔺",
+    "category": "sightseeing"
+  },
+  {
+    "startTime": "474.24",
+    "endTime": "476.879",
+    "place": "뉴욕 Joe's Pizza",
+    "googlePlace": "Joe's Pizza",
+    "describe": "뉴욕 스타일 피자를 맛볼 수 있는 유명한 피자 가게",
+    "realname": "확실함",
+    "emozi": "🍕🗽🍴",
+    "category": "food"
+  }
+]
