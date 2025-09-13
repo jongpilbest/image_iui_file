@@ -180,20 +180,21 @@
     "id": "ChIJ9U1mz_5YwokRosza1aAk0jM"
   },
   {
-    "startTime": "235",
-    "endTime": "243",
-    "place": "뉴욕 맨해튼 NBC Studios",
-    "googlePlace": "NBC Studios",
-    "describe": "록펠러 센터 내 위치, Saturday Night Live 등 방송 스튜디오 투어 가능.",
+    "startTime": "1065",
+    "endTime": "1072",
+    "place": "뉴욕 맨해튼 Lombardi's Pizza",
+    "googlePlace": "Lombardi's Pizza",
+    "describe": "미국 최초의 피자가게로 알려진 명소, 석탄 화덕 피자로 유명.",
     "realname": "확실함",
-    "emozi": "📺🎬🎤",
-    "category": "sightseeing",
-    "location": {
-      "lat": 40.75951065731812,
-      "lng": -73.9801100453396
+    "emozi": "🍕🔥🗽",
+    "category": "food",
+     "location": {
+      "lat": 40.721838302457414,
+      "lng": -73.9956475318493
     },
-    "id": "ChIJNZvR1v5YwokRadepdoJ17Vg"
-  },
+    "id": "ChIJp-cWE4pZwokRmUI8_BIF8dg",
+    "image: https://github.com/jongpilbest/image_iui_file/blob/main/NewYork/6WdlY2EVLKI/Lombardi's%20Pizza/98736524.jpg?raw=true"
+  }
   {
     "startTime": "243",
     "endTime": "249",
@@ -327,7 +328,8 @@
       "lat": 40.85074239102961,
       "lng": -73.87685727699872
     },
-    "id": "ChIJi9JqUYP0wokRLhCVlxy0bgU"
+    "id": "ChIJi9JqUYP0wokRLhCVlxy0bgU",
+    "image: https://github.com/jongpilbest/image_iui_file/blob/main/NewYork/6WdlY2EVLKI/Bronx%20Zoo/987433.jpg?raw=true"
   },
   {
     "startTime": "372",
@@ -342,7 +344,8 @@
       "lat": 40.76788998279756,
       "lng": -73.97194967712613
     },
-    "id": " ChIJaWjW_PFYwokRFD8a2YQu12U"
+    "id": " ChIJaWjW_PFYwokRFD8a2YQu12U",
+    "image: https://github.com/jongpilbest/image_iui_file/blob/main/NewYork/6WdlY2EVLKI/Central%20Park%20Zoo/9873654.jpg?raw=true"
   },
   {
     "startTime": "378",
@@ -357,23 +360,9 @@
       "lat": 40.74442919787739,
       "lng": -73.84943651650421
     },
-    "id": "ChIJr4Vyr9BfwokRwIj7AIr7bzE"
+    "id": "ChIJr4Vyr9BfwokRwIj7AIr7bzE",
+    "image: https://github.com/jongpilbest/image_iui_file/blob/main/NewYork/6WdlY2EVLKI/Queens%20Zoo/98734325.jpg?raw=true"
   },
-  {
-    "startTime": "384",
-    "endTime": "390",
-    "place": "뉴욕 브루클린 Prospect Park Zoo",
-    "googlePlace": "Prospect Park Zoo",
-    "describe": "브루클린의 프로스펙트 파크 내 위치, 다양한 소규모 전시와 어린이 친화적 공간.",
-    "realname": "확실함",
-    "emozi": "🐒🦆🐐",
-    "category": "sightseeing",
-    "location": {
-      "lat": 40.664997890489616,
-      "lng": -73.96476094055281
-    },
-    "id": "ChIJnWjS-wRbwokRpCq5RGEIH3E"
-  }
   {
     "startTime": "402.599",
     "endTime": "419.84",
@@ -419,6 +408,37 @@
     },
     "id": "ChIJe7vKMf9YwokRIMYfDz7iF9o"
   },
+  {
+    "startTime": "1059",
+    "endTime": "1065",
+    "place": "뉴욕 맨해튼 Joe's Pizza",
+    "googlePlace": "Joe's Pizza",
+    "describe": "뉴욕을 대표하는 피자 가게, 얇고 접을 수 있는 뉴욕 스타일 슬라이스로 유명.",
+    "realname": "확실함",
+    "emozi": "🍕😋🏙️",
+    "category": "food",
+     "location": {
+      "lat": 40.754866397027286,
+      "lng": -73.98701837417572
+    },
+    "id": "ChIJifIePKtZwokRVZ-UdRGkZzs"
+  },
+  {
+    "startTime": "1065",
+    "endTime": "1072",
+    "place": "뉴욕 맨해튼 Lombardi's Pizza",
+    "googlePlace": "Lombardi's Pizza",
+    "describe": "미국 최초의 피자가게로 알려진 명소, 석탄 화덕 피자로 유명.",
+    "realname": "확실함",
+    "emozi": "🍕🔥🗽",
+    "category": "food",
+     "location": {
+      "lat": 40.721838302457414,
+      "lng": -73.9956475318493
+    },
+    "id": "ChIJp-cWE4pZwokRmUI8_BIF8dg",
+    "image: https://github.com/jongpilbest/image_iui_file/blob/main/NewYork/6WdlY2EVLKI/Lombardi's%20Pizza/98736524.jpg?raw=true"
+  }
   {
     "startTime": "471.28",
     "endTime": "490.599",
@@ -749,6 +769,21 @@
     },
     "id": "ChIJq6qqqh5PwokRS7Y6dqVd1yg"
   },
+  {
+    "startTime": "1005",
+    "endTime": "1018",
+    "place": "뉴욕 맨해튼 Rockefeller Plaza FAO Schwarz",
+    "googlePlace": "FAO Schwarz",
+    "describe": "록펠러 플라자에 위치한 아이코닉 토이 스토어. 대형 인형, 인터랙티브 전시, 발로 연주하는 거대한 피아노 체험 가능.",
+    "realname": "확실함",
+    "emozi": "🧸🎹🎁",
+    "category": "shopping",
+    "location": {
+      "lat": 40.7589316321555,
+      "lng": -73.97935573184763
+    },
+    "id": "ChIJM-qBJWVZwokRZQwIoEESnEc"
+  }
   {
     "startTime": "987.36",
     "endTime": "998.16",
