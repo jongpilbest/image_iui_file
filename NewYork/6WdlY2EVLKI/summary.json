@@ -14,6 +14,21 @@
     },
     "id": "ChIJ4zGFAZpYwokRGUGph3Mf37k"
   },
+   {
+    "startTime": "230",
+    "endTime": "245",
+    "place": "뉴욕 맨해튼 Grand Central Terminal",
+    "googlePlace": "Grand Central Terminal",
+    "describe": "웅장한 대합실과 천장 천체도 벽화로 유명한 역사적 기차역, 쇼핑과 식당도 있음",
+    "realname": "확실함",
+    "emozi": "🚉🌌🥯",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.753553228098966,
+      "lng": -73.97682556123668
+    },
+    "id": "ChIJhRwB-yFawokRi0AhGH87UTc"
+  },
   {
     "startTime": "52.64",
     "endTime": "67.96",
@@ -120,6 +135,21 @@
     "id": "ChIJT4N92npawokRNfXHEXmRwng"
   },
   {
+    "startTime": "173",
+    "endTime": "193",
+    "place": "뉴욕 맨해튼 The Oculus",
+    "googlePlace": "The Oculus",
+    "describe": "월드 트레이드 센터 인근의 교통 허브이자 쇼핑몰. 흰색 갈비뼈 형태의 아치 구조, 상점·음식점·포토 스팟.",
+    "realname": "확실함",
+    "emozi": "🏛️🛍️📸",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.711686101020256,
+      "lng": -74.01082302835088
+    },
+    "id": "ChIJ20W6MwBbwokRlga6sOhRflU"
+  }
+  {
     "startTime": "193.44",
     "endTime": "210.799",
     "place": "뉴욕 맨해튼 하이라인",
@@ -149,6 +179,36 @@
     },
     "id": "ChIJ9U1mz_5YwokRosza1aAk0jM"
   },
+  {
+    "startTime": "235",
+    "endTime": "243",
+    "place": "뉴욕 맨해튼 NBC Studios",
+    "googlePlace": "NBC Studios",
+    "describe": "록펠러 센터 내 위치, Saturday Night Live 등 방송 스튜디오 투어 가능.",
+    "realname": "확실함",
+    "emozi": "📺🎬🎤",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.75951065731812,
+      "lng": -73.9801100453396
+    },
+    "id": "ChIJNZvR1v5YwokRadepdoJ17Vg"
+  },
+  {
+    "startTime": "243",
+    "endTime": "249",
+    "place": "뉴욕 맨해튼 Radio City Music Hall",
+    "googlePlace": "Radio City Music Hall",
+    "describe": "아르데코 양식 건축, 전설적인 로켓츠 공연으로 유명한 극장. 투어와 공연 관람 가능.",
+    "realname": "확실함",
+    "emozi": "🎶💃🏛️",
+    "category": "sightseeing",
+     "location": {
+      "lat": 40.76013850248563,
+      "lng": -73.98002011835554
+    },
+    "id": "ChIJPS8b1vhYwokRldqq2YHmxJI"
+  }
   {
     "startTime": "249.12",
     "endTime": "265.32",
@@ -255,6 +315,66 @@
     "id": "ChIJX7hLk0FZwokRFhRcjtylakg"
   },
   {
+    "startTime": "365",
+    "endTime": "372",
+    "place": "뉴욕 브롱크스 Bronx Zoo",
+    "googlePlace": "Bronx Zoo",
+    "describe": "미국 최대 규모 동물원 중 하나, 다양한 야생동물과 생태 전시.",
+    "realname": "확실함",
+    "emozi": "🦁🐒🦓",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.85074239102961,
+      "lng": -73.87685727699872
+    },
+    "id": "ChIJi9JqUYP0wokRLhCVlxy0bgU"
+  },
+  {
+    "startTime": "372",
+    "endTime": "378",
+    "place": "뉴욕 맨해튼 Central Park Zoo",
+    "googlePlace": "Central Park Zoo",
+    "describe": "센트럴 파크 내 위치한 작은 규모의 매력적인 동물원.",
+    "realname": "확실함",
+    "emozi": "🐧🦊🐻",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.76788998279756,
+      "lng": -73.97194967712613
+    },
+    "id": " ChIJaWjW_PFYwokRFD8a2YQu12U"
+  },
+  {
+    "startTime": "378",
+    "endTime": "384",
+    "place": "뉴욕 퀸즈 Queens Zoo",
+    "googlePlace": "Queens Zoo",
+    "describe": "퀸즈 지역의 가족 친화적 동물원, 북미 동물 중심 전시.",
+    "realname": "확실함",
+    "emozi": "🦬🦉🦌",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.74442919787739,
+      "lng": -73.84943651650421
+    },
+    "id": "ChIJr4Vyr9BfwokRwIj7AIr7bzE"
+  },
+  {
+    "startTime": "384",
+    "endTime": "390",
+    "place": "뉴욕 브루클린 Prospect Park Zoo",
+    "googlePlace": "Prospect Park Zoo",
+    "describe": "브루클린의 프로스펙트 파크 내 위치, 다양한 소규모 전시와 어린이 친화적 공간.",
+    "realname": "확실함",
+    "emozi": "🐒🦆🐐",
+    "category": "sightseeing",
+    "location": {
+      "lat": 40.664997890489616,
+      "lng": -73.96476094055281
+    },
+    "id": "ChIJnWjS-wRbwokRpCq5RGEIH3E"
+  }
+  {
     "startTime": "402.599",
     "endTime": "419.84",
     "place": "뉴욕 첼시 마켓",
@@ -328,21 +448,6 @@
       "lng": -74.013173
     },
     "id": "ChIJTWE_0BtawokRVJNGH5RS448"
-  },
-  {
-    "startTime": "530.08",
-    "endTime": "540.6",
-    "place": "뉴욕 메트로폴리탄 미술관",
-    "googlePlace": "The Metropolitan Museum of Art",
-    "describe": "5,000년의 예술과 문화가 있는 박물관",
-    "realname": "확실함",
-    "emozi": "🎨🏛️",
-    "category": "sightseeing",
-    "location": {
-      "lat": 40.7794366,
-      "lng": -73.963244
-    },
-    "id": "ChIJb8Jg9pZYwokR-qHGtvSkLzs"
   },
   {
     "startTime": "542.399",
@@ -600,25 +705,10 @@
     "id": "ChIJ-wHkrBlawokRjCiym7MbolM"
   },
   {
-    "startTime": "900.48",
-    "endTime": "917.24",
-    "place": "뉴욕 그랜드 센트럴 터미널",
-    "googlePlace": "Grand Central Terminal",
-    "describe": "역사적인 랜드마크, 웅장한 건축물",
-    "realname": "확실함",
-    "emozi": "🚉🏛️🌌",
-    "category": "sightseeing",
-    "location": {
-      "lat": 40.7533582,
-      "lng": -73.9768041
-    },
-    "id": "ChIJhRwB-yFawokRi0AhGH87UTc"
-  },
-  {
     "startTime": "918.48",
     "endTime": "936.279",
-    "place": "뉴욕 워싱턴 스퀘어 아치",
-    "googlePlace": "Washington Square Arch",
+    "place": "뉴욕 워싱턴 스퀘어 공원",
+    "googlePlace": "Washington Square Park",
     "describe": "그리니치 빌리지에 위치한 아치, 활기찬 공원",
     "realname": "확실함",
     "emozi": "🌳🎶♟️",
