@@ -1,0 +1,42 @@
+[
+  {
+    "startTime": "1304.0",
+    "endTime": "1323.0",
+    "place": "파리 르 마레 태국 음식점 (상호 미확인)",
+    "googlePlace": "Suan Thai",
+    "describe": "조용한 분위기의 태국 레스토랑, 팟타이가 특히 맛있었다고 언급",
+    "realname": "의심됨",
+    "emozi": "🍜🍤",
+    "category": "Food and Beverage"
+  },
+  {
+    "startTime": "1323.0",
+    "endTime": "1355.0",
+    "place": "파리 센 강 좌안 강변 (Île Saint‑Louis·Île de la Cité 근처)",
+    "googlePlace": "Suan Thai",
+    "describe": "현지인과 여행자들이 피크닉·카드게임을 즐기는 석양 명소",
+    "realname": "의심됨",
+    "emozi": "🌅🍷",
+    "category": "Attraction"
+  },
+  {
+    "startTime": "335.0",
+    "endTime": "347.0",
+    "place": "파리 시내 Grom Gelato",
+    "googlePlace": "Grom Gelato",
+    "describe": "평점이 높은 젤라토 전문점, 산책 마무리 디저트",
+    "realname": "의심됨",
+    "emozi": "🍨🍦",
+    "category": "Food and Beverage"
+  },
+  {
+    "startTime": "640.0",
+    "endTime": "656.0",
+    "place": "파리 (지점 미상) Pierre Hermé Paris",
+    "googlePlace": "Pierre Hermé Paris",
+    "describe": "피크닉 디저트로 마카롱 구매",
+    "realname": "확실함",
+    "emozi": "🍬🍰",
+    "category": "Food and Beverage"
+  }
+]
